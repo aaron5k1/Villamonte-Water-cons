@@ -1,0 +1,6 @@
+{
+  "name": "Water cons",
+  "description": "Smart daily water consumption tracker with intuitive logging, custom hydration goals, interactive visual charts, and periodic reminder notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
